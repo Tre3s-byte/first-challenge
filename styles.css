@@ -245,14 +245,13 @@
     flex-flow: nowrap column;
     margin: 0 auto;
     width: 90%;
-    height: 90%;
+    height: 80%;
   }
   #submit-button {
     position: relative;
-    left: 0.5em;
-    top: 0.5em;
+    right: 2.1vw;
     margin: 0 auto;
-    width: 96%;
+    width: 85vw;
     padding: 0.8em;
     border: none;
     border-radius: 15em;
@@ -300,9 +299,9 @@
     text-align: left;
     align-items: center;
     position: relative;
-    left: 0.7em;
+    left: 0.9vw;
     margin: 0 0 1em 0;
-    padding: 1.5em 0.6em 1.5em 0.6em;
+    padding: 1vh;
     width: 90%;
     border-radius: 10px;
     font-weight: 500;
