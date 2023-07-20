@@ -93,8 +93,14 @@
     font-weight: 800;
     background: var(--Dark-gray-blue);
     color: var(--Pale-blue);
+    cursor: pointer;
   }
-
+  #submit-button:hover {
+    background: linear-gradient(180deg, var(--light-slate-blue) 0%, var(--light-royal-blue) 50%);
+  }
+  #submit-button:active {
+    background: linear-gradient(180deg, var(--light-slate-blue) 0%, var(--light-royal-blue) 50%);
+  }
   .higlight-card__title {
     text-align: center;
     color: var(--Light-lavender);
@@ -259,8 +265,16 @@
     font-weight: 800;
     background: var(--Dark-gray-blue);
     color: var(--Pale-blue);
+    cursor: pointer;
   }
-
+  #submit-button:hover {
+    background: linear-gradient(180deg, var(--light-slate-blue) 0%, var(--light-royal-blue) 50%);
+    cursor: pointer;
+  }
+  #submit-button:active {
+    background: linear-gradient(180deg, var(--light-slate-blue) 0%, var(--light-royal-blue) 50%);
+    cursor: pointer;
+  }
   .higlight-card__title {
     text-align: center;
     color: var(--Light-lavender);
