@@ -19,7 +19,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./project_screenshoot.png)
+![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ### Links
 
